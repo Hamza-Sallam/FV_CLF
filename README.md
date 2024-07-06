@@ -5,3 +5,5 @@ We employed the FruitVeg dataset, which consists of 60,059 images of 11 differen
 Our VGG16 model achieved a test accuracy of 94.58% for freshness classification, while EfficientNet-B0 reached an impressive accuracy of 96.04% for tomato disease detection. These results demonstrate the potential of advanced machine learning techniques in enhancing agricultural sustainability by reducing food waste and ensuring the healthiness of produce
 
 
+![Screenshot of the application](gradio.png)
+
