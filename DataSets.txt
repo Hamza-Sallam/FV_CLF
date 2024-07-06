@@ -1,0 +1,13 @@
+Since datasets size are huge, we have uploaded it in a cloud drive
+
+below are the link for both datasets
+
+
+PlantVillage dataset : subset of tomatoes:
+
+https://drive.google.com/drive/folders/11QWRjsPiGvEAldA9qbBQiisOT5QJ78EL?usp=sharing
+
+
+FruitVeg dataset:
+
+https://drive.google.com/drive/folders/1_PHCcfdw-pegaWpTL-OdJl_JiNh3FD2w?usp=sharing
